@@ -17,6 +17,10 @@
   </ul>
 </nav>
 
+<div class="openclose">
+  <i class="fa fa-bars open" aria-hidden="true"></i>
+</div>
+
 <div class="banners">
   <p class="txt">Servicios a tu alcance </p>
 </div>
@@ -24,8 +28,8 @@
 <div class="section" style="padding:5%;">
       <div class="container">
         <div class="row">
-          <div class="col-md-6"><p class="tit">SERVICIOS</p></div>
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6"><p class="tit">SERVICIOS</p></div>
+          <div class="col-sm-6 col-md-6">
             <p class="subtit">
               <i class="fas fa-angle-right"></i> Limpieza especializada <br>
               <i class="fas fa-angle-right"></i> Horarios óptimos de Servicio <br>
@@ -44,7 +48,8 @@
     <div class="section" style="padding:5%; background: #57C0D3;" >
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6 cont-titv"><p class="tit2">NUESTRAS VENTAJAS</p></div>
+          <div class="col-sm-6 col-md-6">
             <p class="subtit">
               <i class="fas fa-angle-right"></i> Especializados en limpieza <br>
               <i class="fas fa-angle-right"></i> Garantizamos Prestaciones y Seguro Social <br>
@@ -59,16 +64,16 @@
               <i class="fas fa-angle-right"></i> Baja rotación de personal
             </p>
           </div>
-           <div class="col-md-6"><p class="tit2">NUESTRAS VENTAJAS</p></div>
+           <div class="col-sm-6 col-md-6 cont-titv2"><p class="tit2">NUESTRAS VENTAJAS</p></div>
         </div>
       </div>
     </div>
 
-    <div class="section" style="padding:5%;">
+    <div class="section cont-ich" style="padding:5%;">
       <div class="container">
         <div class="row">
-          <div class="col-md-6"><p class="tit">DÓNDE</p></div>
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6"><p class="tit">DÓNDE</p></div>
+          <div class="col-sm-6 col-md-6">
             <p class="subtit">
               <i class="fas fa-angle-right"></i> Oficinas <br>
               <i class="fas fa-angle-right"></i> Escuelas <br>
@@ -77,7 +82,6 @@
               <i class="fas fa-angle-right"></i> Edificios <br>
               <i class="fas fa-angle-right"></i> Fabricas  <br>
               <i class="fas fa-angle-right"></i> Condominios <br>
-              <!-- <i class="fas fa-angle-right"></i>  -->
             </p>
           </div>
         </div> <br><br>
